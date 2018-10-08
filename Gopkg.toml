@@ -28,3 +28,11 @@
 [prune]
   go-tests = true
   unused-packages = true
+
+[[constraint]]
+  name = "github.com/c-bata/go-prompt"
+  version = "0.2.2"
+
+[[constraint]]
+  name = "github.com/goburrow/modbus"
+  version = "0.1.0"
